@@ -19,7 +19,7 @@
     "https-proxy-agent": "^5.0.0",
     "node-fetch": "^2.6.6",
     "progress": "^2.0.3",
-    "semver": "^7.3.5",
+    "semver": "^7.7.3",
     "tar-fs": "^2.1.1",
     "yargs": "^16.2.0"
   },
